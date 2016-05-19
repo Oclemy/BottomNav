@@ -11,6 +11,7 @@ import com.tutorials.hp.bottomnav.R;
 
 /**
  * Created by Oclemmy on 5/10/2016 for ProgrammingWizards Channel and http://www.Camposha.com.
+ * Fragment shown when Drama nav item is clicked.
  */
 public class DramaFragment extends Fragment {
     @Nullable
