@@ -11,6 +11,7 @@ import com.tutorials.hp.bottomnav.R;
 
 /**
  * Created by Oclemmy on 5/10/2016 for ProgrammingWizards Channel and http://www.Camposha.com.
+ * Fragment shown when crim navigation item is clicked.
  */
 public class CrimeFragment extends Fragment {
     @Nullable
